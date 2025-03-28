@@ -12,6 +12,7 @@ The dataset used for training and evaluation is a customer churn dataset.
 - Model training using Decision Tree and Logistic Regression
 - Model evaluation using accuracy, precision, recall, and F1-score
 - Comparison of model performance
+- The comparison using confusion matrix
 
 ## Installation
 To run this project, follow these steps:
@@ -44,6 +45,8 @@ To install them, use:
 ```bash
 pip install pandas numpy scikit-learn matplotlib 
 ```
+![image](https://github.com/user-attachments/assets/437d2832-e63d-4019-b37e-3ff73a7926d3)
+
 
 
 
