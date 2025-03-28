@@ -45,7 +45,12 @@ To install them, use:
 ```bash
 pip install pandas numpy scikit-learn matplotlib 
 ```
-![image](https://github.com/user-attachments/assets/437d2832-e63d-4019-b37e-3ff73a7926d3)
+the logistic regression model
+  ![image](https://github.com/user-attachments/assets/437d2832-e63d-4019-b37e-3ff73a7926d3)
+
+  the decision tree model
+![image](https://github.com/user-attachments/assets/0f342fda-1989-4ef5-b5a7-a44793194759)
+
 
 
 
