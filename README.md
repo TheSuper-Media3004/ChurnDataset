@@ -23,7 +23,7 @@ To run this project, follow these steps:
    ```
 2. Install required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
    ```
 
 ## Usage
